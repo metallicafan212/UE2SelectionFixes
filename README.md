@@ -11,7 +11,7 @@ Right now, there are versions only for UT2004 3369 and Red Orchestra 3339
 2. Right clicking on the void doesn't bring up the context menu. This will be fixed later.
 
 ## Installing
-1. Browse the releases section for you game
+1. Browse the releases section for your game
 2. Download the D3DDrv.7z from the release
 3. Make a backup of the game's existing D3DDrv.dll
 4. Extract the 7z file into the game's System directory
