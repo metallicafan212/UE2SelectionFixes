@@ -5,8 +5,8 @@ Binary fixes for multiple D3DDrv based UE2 editors
 Right now, there are versions only for UT2004 3369 and Red Orchestra 3339
 
 ## Known bugs
-Skyboxes render on top in the selection view. No known fix as of this moment, I'm currently looking into it
-Right clicking on the void doesn't bring up the context menu. This will be fixed later.
+1. Skyboxes render on top in the selection view. No known fix as of this moment, I'm currently looking into it
+2. Right clicking on the void doesn't bring up the context menu. This will be fixed later.
 
 ## Installing
 1. Browse the releases section for you game
