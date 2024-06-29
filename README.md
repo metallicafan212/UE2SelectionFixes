@@ -7,8 +7,8 @@ https://github.com/metallicafan212/UE2SelectionFixes/assets/5996243/e9ca7060-47a
 Right now, there are versions only for UT2004 3369 and Red Orchestra 3339
 
 ## Known bugs
-1. Skyboxes render on top in the selection view. No known fix as of this moment, I'm currently looking into it
-2. Right clicking on the void doesn't bring up the context menu. This will be fixed later.
+1. Clicking on text strings in the texture browser and material properties windows clicks random textures. I'm working on this issue, something is off in how it's rendering them in the background.
+2. Some textures in the texture browser are hard to select (when they have alpha effects or alpha layers). For now, select the black box at the bottom of them. I will fix this in the future.
 
 ## Installing
 1. Browse the releases section for your game
