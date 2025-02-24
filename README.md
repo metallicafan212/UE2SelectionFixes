@@ -9,13 +9,18 @@ These binary patches are not associated with OldUnreal.
 These patches were created before I became an official OldUnreal developer. They were created through reverse engineering efforts on parts of the renderer and partial game rendering engine (to align function stubs). No technical protection measures were circumvented, and the patch only affects the editor for each game. 
 
 Tools used:
+
 Ghidra
+
 Red Orchestra SDK
+
 Killing Floor SDK
 
 ## Supported games
 UT2004 3369
+
 Red Orchestra 3339
+
 Killing Floor 3339
 
 ## Known bugs
