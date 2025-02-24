@@ -7,7 +7,7 @@ https://github.com/metallicafan212/UE2SelectionFixes/assets/5996243/e9ca7060-47a
 Right now, there are versions only for UT2004 3369, Red Orchestra 3339, and Killing Floor 3339.
 
 ## Known bugs
-1. Clicking on text strings in the texture browser and material properties windows clicks random textures. I'm working on this issue, something is off in how it's rendering them in the background.
+1. ~~Clicking on text strings in the texture browser and material properties windows clicks random textures. I'm working on this issue, something is off in how it's rendering them in the background.~~ This is fixed with alpha 0.3.
 2. Some textures in the texture browser are hard to select (when they have alpha effects or alpha layers). For now, select the black box at the bottom of them. I will fix this in the future.
 
 ## Installing
