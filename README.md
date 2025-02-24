@@ -3,8 +3,20 @@ Binary fixes for multiple D3DDrv based UE2 editors, to fix the long selection la
 
 https://github.com/metallicafan212/UE2SelectionFixes/assets/5996243/e9ca7060-47a2-44fd-a36d-5b3d82c35298
 
+##Disclaimer
+These binary patches are not associated with OldUnreal.
+
+These patches were created before I became an official OldUnreal developer. They were created through reverse engineering efforts on parts of the renderer and partial game rendering engine (to align function stubs). No technical protection measures were circumvented, and the patch only affects the editor for each game. 
+
+Tools used:
+Ghidra
+Red Orchestra SDK
+Killing Floor SDK
+
 ## Supported games
-Right now, there are versions only for UT2004 3369, Red Orchestra 3339, and Killing Floor 3339.
+UT2004 3369
+Red Orchestra 3339
+Killing Floor 3339
 
 ## Known bugs
 1. ~~Clicking on text strings in the texture browser and material properties windows clicks random textures. I'm working on this issue, something is off in how it's rendering them in the background.~~ This is fixed with alpha 0.3.
@@ -18,8 +30,3 @@ Right now, there are versions only for UT2004 3369, Red Orchestra 3339, and Kill
 
 ## Code?
 Nope, sorry. Lost it in a "boating" accident :)
-
-## Donations/Tips?
-You can donate to me here, but it's not required at all. This will always stay free and I will work on it when I get time.
-This is just a tipbox.
-https://www.paypal.me/metallicafan212
