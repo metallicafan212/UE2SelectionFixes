@@ -3,7 +3,7 @@ Binary fixes for multiple D3DDrv based UE2 editors, to fix the long selection la
 
 https://github.com/metallicafan212/UE2SelectionFixes/assets/5996243/e9ca7060-47a2-44fd-a36d-5b3d82c35298
 
-##Disclaimer
+## Disclaimer
 These binary patches are not associated with OldUnreal.
 
 These patches were created before I became an official OldUnreal developer. They were created through reverse engineering efforts on parts of the renderer and partial game rendering engine (to align function stubs). No technical protection measures were circumvented, and the patch only affects the editor for each game. 
