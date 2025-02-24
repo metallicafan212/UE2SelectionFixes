@@ -18,3 +18,8 @@ Right now, there are versions only for UT2004 3369 and Red Orchestra 3339
 
 ## Code?
 Nope, sorry. Lost it in a "boating" accident :)
+
+## Donations/Tips?
+You can donate to me here, but it's not required at all. This will always stay free and I will work on it when I get time.
+This is just a tipbox.
+https://www.paypal.me/metallicafan212
