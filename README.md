@@ -17,7 +17,7 @@ Red Orchestra SDK
 Killing Floor SDK
 
 ## Supported games
-UT2004 3369
+UT2004 3369 RETAIL PATCH ONLY. No binary community patches are supported.
 
 Red Orchestra 3339
 
